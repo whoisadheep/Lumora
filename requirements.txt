@@ -1,0 +1,9 @@
+google-genai
+python-dotenv
+pytrends
+pydantic
+gradio_client
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+moviepy
